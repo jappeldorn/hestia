@@ -1,0 +1,34 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.appel.hestia"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "monolith",
+    "baseName": "hestia",
+    "packageName": "com.appel.hestia",
+    "packageFolder": "com/appel/hestia",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MmQwNWRiM2FjZjU2ZWFkNTFmNzg4ZGQ4Zjg5OWEyZGE0NTM3Mzc0ZWJlOThiNThmOTE2ZjAxM2Y3NTlkMWIzNjNiYTVhNDIyMGZlZGY3MTUxMzJlNzZjNjA2NTAwZTY5N2I1YjFiMGIyMjEwYWZjNjQwMWQwYWE4MjI2YTRjYjc=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}
